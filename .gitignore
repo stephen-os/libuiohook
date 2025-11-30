@@ -2,3 +2,7 @@
 /.vs/
 /build/
 /dist/
+
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
